@@ -23,7 +23,7 @@ database and php files are located in our website: [testgram-001-site1.etempurl.
 ### Website info
 control panel: [smarterasp.net](https://member5.smarterasp.net/)
 username: testgram
-password: 9606733_9606743
+password: 9606733h9606743
 
 ### Database info
 
@@ -33,7 +33,7 @@ Database Name : DB_A6D8FC_testgram
 
 User Name : DB_A6D8FC_testgram_admin
 
-Password : 9606733_9606743
+Password : 9606733h9606743
 
 ## Contact us
 
